@@ -1,5 +1,5 @@
 /* --- Random Color Generator --- */
- const generateRandomColor = () => {
+const generateRandomColor = () => {
     const characters = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'a', 'b', 'c', 'd', 'e', 'f']
     let color = '#';
     for (let i = 0; i < 6; i++) {
@@ -92,6 +92,7 @@ class Circle {
         ctx.arc(this.x, this.y, this.radius, 0, Math.PI*2, false);
 //        ctx.strokeStyle = this.color;
         ctx.fillStyle = this.color;
+        ctx.globalAlpha = .9;
 //        ctx.stroke();
         ctx.fill();
     }
