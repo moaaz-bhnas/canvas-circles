@@ -130,7 +130,7 @@ class Circle {
 let circlesArray = [];
 const init = () => {
     circlesArray = [];
-    for (let i = 0; i < 200; i++) {
+    for (let i = 0; i < 400; i++) {
         circlesArray.push(new Circle());
     }
     for (const circle of circlesArray) {
