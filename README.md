@@ -1,5 +1,5 @@
 # Canvas Circles
-A canvas of circles of random colors moving in a random directions and speeds. I built it to learn canvas and practice Object-Oriented JavaScript.
+A canvas of circles of random colors moving in a random directions and speeds. I built in a canvas course.
 
 ## Live
 https://moaaz-bhnas.github.io/canvas-circles/
