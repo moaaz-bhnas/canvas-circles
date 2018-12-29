@@ -7,6 +7,9 @@ https://moaaz-bhnas.github.io/canvas-circles/
 ## Screenshots
 ![Live Preview](https://media.giphy.com/media/KZx54L1EKk13syGQ3C/giphy.gif)
 
+## Built With
+Vanilla JavaScript (OOP)
+
 ## Requeriments
 To clone this application, you'll need [Git](https://git-scm.com/)..
 
